@@ -4,7 +4,7 @@ Official website: https://adventofcode.com/ 🌟
 
 This year in C++.
 
-# ✨ Progress ✨
+# Progress
 
 | Day | Part 1              | Part 2                |
 | --- | ------------------- |-----------------------|
